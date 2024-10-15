@@ -1,0 +1,54 @@
+# Simple Counter mod for YARG
+
+A BepInEx 6 mod for YARG v0.12.2+ that adds a Simple Note Counter, a Simple Max Combo Counter, and the ability to fail songs.
+
+As of the mod, only YARG v0.12.2 and newer are supported.
+
+## Disclaimer
+As this is a modification to the game, bugs may occur and performance may be slightly impacted.  Also, I'm not that great at coding, so if you can improve this, feel free to help out.
+
+## Currently tested and working YARG versions
+| Stable   | Nightly |
+|----------|---------|
+| v0.12.6  | b2842   |
+
+### While this mod and BepInEx are installed, please *DO NOT* report any bugs to YARC, *unless* you can reproduce them in the unmodded game!
+
+## Installation in Stable Version
+1.  For Windows users, download BepInEX_UnityMono_x64_6.0.0-pre.1.zip from here [here](https://github.com/BepInEx/BepInEx/releases/tag/v6.0.0-pre.1) and extract the contents into the root folder of your current Stable Version installation of YARG.
+  - You can download the latest stable version of YARG here [here](https://github.com/YARC-Official/YARG/releases) and then extract it to its own folder.
+2. Download and extract the latest release of the mod from [Releases](https://github.com/  ).
+3. Launch YARG.exe, and load into a song.
+  - You should see the Simple Counter appear on the right side of the screen, somewhere below the score counter. If the counter doesn't appear, it means either the mod was not installed correctly, or an update may have broken it.
+  - Updates that change YARG.Core could potentially break the mod, so keep this in mind when updating to a nightly build newer than the version listed above.
+
+## Installation in Nightly Version
+1.  For Windows users, download BepInEX_UnityMono_x64_6.0.0-pre.1.zip from here [here](https://github.com/BepInEx/BepInEx/releases/tag/v6.0.0-pre.1) and extract the contents into the root folder of your current Nightly Version installation of YARG.
+  - You can download the latest nightly build of YARG [here](https://github.com/YARC-Official/YARG-BleedingEdge/releases) and then extract it to its own folder.
+2. Download and extract the latest release of the mod from [Releases](https://github.com/  ).
+3. Launch YARG.exe, and load into a song.
+  - You should see the Simple Counter appear on the right side of the screen, somewhere below the score counter. If the counter doesn't appear, it means either the mod was not installed correctly, or an update may have broken it.
+  - Updates that change YARG.Core could potentially break the mod, so keep this in mind when updating to a nightly build newer than the version listed above.
+
+### Updating
+To update to a newer nightly build of YARG, simply copy over the files of the update to your portable modded installation.
+
+If an update causes the mod to stop working, please let me know!
+
+### Uninstalling
+To uninstall the mod, remove the following files and folders from the game's folder:
+- `winhttp.dll`
+- `doorstop_config.ini` *(optional)*
+- The `BepInEx` folder *(optional)*
+
+## Usage
+This mod has its own configuration file, located at `BepInEx/config/`. You can change the position, as well as enable/disable the Simple Counter and/or the Combo Counter through the config file, as well as change the color and size of the font.
+
+
+## Credits and thanks
+- EliteAsian123 : Created YARG
+- Everyone who has worked on YARG
+- The Clone Hero / YARG communities
+- Bepis : Created the [INI parser](https://github.com/BepInEx/BepInEx)
+- This mod was created by Spucnik9
+
