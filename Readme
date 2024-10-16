@@ -1,6 +1,6 @@
 # Simple Counter mod for YARG
 
-A BepInEx 6 mod for YARG v0.12.2+ that adds a Simple Note Counter, a Simple Max Combo Counter, and the ability to fail songs.
+A BepInEx 6 mod for YARG v0.12.2+ that adds a Note Counter and Max Combo Notes tracker
 
 As of the mod, only YARG v0.12.2 and newer are supported.
 
@@ -42,7 +42,7 @@ To uninstall the mod, remove the following files and folders from the game's fol
 - The `BepInEx` folder *(optional)*
 
 ## Usage
-This mod has its own configuration file, located at `BepInEx/config/`. You can change the position, as well as enable/disable the Simple Counter and/or the Combo Counter through the config file, as well as change the color and size of the font.
+This mod has its own configuration file, located at `BepInEx/config/com.yoshibyl.SimpleNoteCounter.cfg`. You can change the position, as well as enable/disable the Simple Note Counter through the config file, as well as change the color and size of the font.
 
 
 ## Credits and thanks
