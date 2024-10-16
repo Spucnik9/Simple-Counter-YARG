@@ -17,7 +17,7 @@ As this is a modification to the game, bugs may occur and performance may be sli
 ## Installation in Stable Version
 1.  For Windows users, download BepInEX_UnityMono_x64_6.0.0-pre.1.zip from here https://github.com/BepInEx/BepInEx/releases/tag/v6.0.0-pre.1 and extract the contents into the root folder of your current Stable Version installation of YARG.
   - You can download the latest stable version of YARG here https://github.com/YARC-Official/YARG/releases and then extract it to its own folder.
-2. Download and extract the latest release of the mod from https://github.com/  .
+2. Download and extract the latest release of the mod from https://github.com/Spucnik9/Simple-Counter-YARG/releases .
 3. Launch YARG.exe, and load into a song.
   - You should see the Simple Counter appear on the right side of the screen, somewhere below the score counter. If the counter doesn't appear, it means either the mod was not installed correctly, or an update may have broken it.
   - Updates that change YARG.Core could potentially break the mod, so keep this in mind when updating to a nightly build newer than the version listed above.
@@ -25,7 +25,7 @@ As this is a modification to the game, bugs may occur and performance may be sli
 ## Installation in Nightly Version
 1.  For Windows users, download BepInEX_UnityMono_x64_6.0.0-pre.1.zip from here https://github.com/BepInEx/BepInEx/releases/tag/v6.0.0-pre.1 and extract the contents into the root folder of your current Nightly Version installation of YARG.
   - You can download the latest nightly build of YARG here https://github.com/YARC-Official/YARG-BleedingEdge/releases and then extract it to its own folder.
-2. Download and extract the latest release of the mod from https://github.com/  .
+2. Download and extract the latest release of the mod from https://github.com/Spucnik9/Simple-Counter-YARG/releases .
 3. Launch YARG.exe, and load into a song.
   - You should see the Simple Counter appear on the right side of the screen, somewhere below the score counter. If the counter doesn't appear, it means either the mod was not installed correctly, or an update may have broken it.
   - Updates that change YARG.Core could potentially break the mod, so keep this in mind when updating to a nightly build newer than the version listed above.
